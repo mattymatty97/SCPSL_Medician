@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PowerFailures</RootNamespace>
-    <AssemblyName>PowerFailures</AssemblyName>
+    <AssemblyName>Medician</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -31,9 +31,8 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CommandHanlder.cs" />
     <Compile Include="EventHandlers.cs" />
-    <Compile Include="PowerFailures.cs" />
+    <Compile Include="Medician.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

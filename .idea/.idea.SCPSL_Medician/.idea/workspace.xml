@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7d5e68dc-6aa6-4808-b84e-bfc76f43544b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SCPSL_Medician/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SCPSL_Medician/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SCPSL_Medician/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SCPSL_Medician/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medician/bin/Release/Assembly-CSharp.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medician/bin/Release/Medician.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medician/bin/Release/Medician.pdb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Medician/bin/Release/Smod2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medician/bin/Release/UnityEngine.CoreModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medician/bin/Release/UnityEngine.Networking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medician/bin/Release/UnityEngine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/CommandHanlder.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/EventHandlers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/EventHandlers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/PowerFailures.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/Medician.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/PowerFailures.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/Medician.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/Properties/AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/Properties/AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/LoadingScreen.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/LoadingScreen.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/LoadingScreen.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/LoadingScreen.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/LoadingScreen.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/LoadingScreen.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/LoadingScreen.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/LoadingScreen.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/LoadingScreen.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/LoadingScreen.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/LoadingScreen.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/LoadingScreen.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/PowerFailures.csproj.CopyComplete" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/PowerFailures.csproj.CopyComplete" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/PowerFailures.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/PowerFailures.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/PowerFailures.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/PowerFailures.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/PowerFailures.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/PowerFailures.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/PowerFailures.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/PowerFailures.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/obj/Release/PowerFailures.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/obj/Release/PowerFailures.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PowerFailures/packages.config" beforeDir="false" afterPath="$PROJECT_DIR$/Medician/packages.config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/References/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/References/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/References/Smod2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/References/Smod2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCPSL_PowerFailures.sln" beforeDir="false" afterPath="$PROJECT_DIR$/SCPSL_Medician.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SCPSL_PowerFailures.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/SCPSL_Medician.sln.DotSettings.user" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Medician/EventHandlers.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="208" column="48" lean-forward="true" selection-start-line="208" selection-start-column="48" selection-end-line="208" selection-end-column="48" />
+              <folding>
+                <marker date="1556274231193" expanded="false" signature="6:162" ph="..." />
+                <marker date="1556274231193" expanded="true" signature="182:8577" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="521:8575" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="660:714" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="764:1644" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="837:1484" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="1296:1389" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="1501:1634" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="1741:2112" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="1783:2102" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="1843:2088" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="2254:3180" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="2327:2967" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="2408:2876" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="2479:2858" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="3090:3170" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="3234:3309" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="3363:3501" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="3680:4227" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="3820:3882" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="3986:4052" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="4103:4167" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="4282:5874" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="4714:5566" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="4897:5496" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="4998:5152" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="5583:5864" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="5710:5850" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="5947:7073" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="6458:6521" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="7125:7368" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="7183:7358" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="7418:7578" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="7491:7568" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="7845:8142" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="7922:8036" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="8209:8551" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="8333:8440" ph="{...}" />
+                <marker date="1556274231193" expanded="true" signature="8457:8541" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Medician/Medician.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-11">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1556270633769" expanded="true" signature="6:76" ph="..." />
+                <marker date="1556270633769" expanded="true" signature="96:1197" ph="{...}" />
+                <marker date="1556270633769" expanded="true" signature="103:367" ph="[...]" />
+                <marker date="1556270633769" expanded="true" signature="402:1195" ph="{...}" />
+                <marker date="1556270633769" expanded="true" signature="501:978" ph="{...}" />
+                <marker date="1556270633769" expanded="true" signature="1027:1086" ph="{...}" />
+                <marker date="1556270633769" expanded="true" signature="1128:1188" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1134F9EE-E071-4222-B80C-8D67B436899B/7f/7fd3f266/Player.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/72F45839-ABF7-41C7-9253-128C5EBB4700/2e/6ce26d64/Team.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Medician/EventHandlers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Medician/Medician.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1134F9EE-E071-4222-B80C-8D67B436899B/bf/055aa7d6/PlayerHurtEvent.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Medician/Medician.cs" />
+        <option value="$PROJECT_DIR$/Medician/EventHandlers.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="71" />
+    <option name="y" value="-4" />
+    <option name="width" value="1849" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Medician" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Medician" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Medician" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Medician" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Medician" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="bin" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Medician" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Medician" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="bin" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Release" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="Medician" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="References" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d5e68dc-6aa6-4808-b84e-bfc76f43544b" name="Default Changelist" comment="" />
+      <created>1550428957357</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1550428957357</updated>
+      <workItem from="1550428958649" duration="150000" />
+      <workItem from="1550476959593" duration="2697000" />
+      <workItem from="1550492790360" duration="1681000" />
+      <workItem from="1550500053244" duration="1378000" />
+      <workItem from="1550504434205" duration="742000" />
+      <workItem from="1550683046082" duration="626000" />
+      <workItem from="1551004859733" duration="990000" />
+      <workItem from="1551635118025" duration="613000" />
+      <workItem from="1551815933789" duration="598000" />
+      <workItem from="1551817351544" duration="1190000" />
+      <workItem from="1551856758479" duration="424000" />
+      <workItem from="1552337768442" duration="2436000" />
+      <workItem from="1552344062030" duration="2263000" />
+      <workItem from="1552400740543" duration="1356000" />
+      <workItem from="1552403295503" duration="57000" />
+      <workItem from="1552415044788" duration="1889000" />
+      <workItem from="1552811057559" duration="2251000" />
+      <workItem from="1552994289507" duration="83000" />
+      <workItem from="1554405553606" duration="484000" />
+      <workItem from="1555159872185" duration="65000" />
+      <workItem from="1555159989137" duration="387000" />
+      <workItem from="1555357721155" duration="305000" />
+      <workItem from="1556269130760" duration="4965000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="27630000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="71" y="-4" width="1849" height="1084" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30393788" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" order="15" visible="true" weight="0.32497388" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32995737" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/42073FCF-9EFD-4A92-A6F0-A4CC94099FE3/76/77e013e4/Enum.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1134F9EE-E071-4222-B80C-8D67B436899B/7f/7fd3f266/Player.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="11" column="47" lean-forward="true" selection-start-line="11" selection-start-column="47" selection-end-line="11" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medician/Medician.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1134F9EE-E071-4222-B80C-8D67B436899B/58/c33126c7/PlayerShootEvent.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1134F9EE-E071-4222-B80C-8D67B436899B/ff/1f48b1be/PlayerGrenadeHitPlayer.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1134F9EE-E071-4222-B80C-8D67B436899B/d4/ebcf4b77/DamageType.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1134F9EE-E071-4222-B80C-8D67B436899B/1a/0c86e53c/Event.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1134F9EE-E071-4222-B80C-8D67B436899B/33/9403faa7/PlayerEvent.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1134F9EE-E071-4222-B80C-8D67B436899B/bf/055aa7d6/PlayerHurtEvent.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <marker date="1552811766451" expanded="true" signature="0:286" ph="/* Decompiled with JetBrains decompiler ... */" />
+            <marker date="1552811766451" expanded="false" signature="294:331" ph="..." />
+            <marker date="1552811766451" expanded="true" signature="355:988" ph="{...}" />
+            <marker date="1552811766451" expanded="true" signature="402:986" ph="{...}" />
+            <marker date="1552811766451" expanded="true" signature="553:661" ph="{...}" />
+            <marker date="1552811766451" expanded="true" signature="689:757" ph="{...}" />
+            <marker date="1552811766451" expanded="true" signature="705:751" ph="{...}" />
+            <marker date="1552811766451" expanded="true" signature="908:982" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/53CBDFA5-449D-4C0C-8565-9B1218EB118E/73/5a1d6c6a/Role.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/72F45839-ABF7-41C7-9253-128C5EBB4700/2e/6ce26d64/Team.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medician/Medician.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-11">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1556270633769" expanded="true" signature="6:76" ph="..." />
+            <marker date="1556270633769" expanded="true" signature="96:1197" ph="{...}" />
+            <marker date="1556270633769" expanded="true" signature="103:367" ph="[...]" />
+            <marker date="1556270633769" expanded="true" signature="402:1195" ph="{...}" />
+            <marker date="1556270633769" expanded="true" signature="501:978" ph="{...}" />
+            <marker date="1556270633769" expanded="true" signature="1027:1086" ph="{...}" />
+            <marker date="1556270633769" expanded="true" signature="1128:1188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Medician/EventHandlers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="208" column="48" lean-forward="true" selection-start-line="208" selection-start-column="48" selection-end-line="208" selection-end-column="48" />
+          <folding>
+            <marker date="1556274231193" expanded="false" signature="6:162" ph="..." />
+            <marker date="1556274231193" expanded="true" signature="182:8577" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="521:8575" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="660:714" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="764:1644" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="837:1484" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="1296:1389" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="1501:1634" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="1741:2112" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="1783:2102" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="1843:2088" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="2254:3180" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="2327:2967" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="2408:2876" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="2479:2858" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="3090:3170" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="3234:3309" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="3363:3501" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="3680:4227" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="3820:3882" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="3986:4052" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="4103:4167" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="4282:5874" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="4714:5566" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="4897:5496" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="4998:5152" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="5583:5864" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="5710:5850" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="5947:7073" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="6458:6521" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="7125:7368" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="7183:7358" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="7418:7578" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="7491:7568" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="7845:8142" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="7922:8036" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="8209:8551" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="8333:8440" ph="{...}" />
+            <marker date="1556274231193" expanded="true" signature="8457:8541" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

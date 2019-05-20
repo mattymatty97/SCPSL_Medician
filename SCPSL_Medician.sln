@@ -1,15 +1,12 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerFailures", "PowerFailures\PowerFailures.csproj", "{AE2B0894-DE9E-4149-AC6A-4BB8E049993C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Medician", "Medician\Medician.csproj", "{AE2B0894-DE9E-4149-AC6A-4BB8E049993C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{AE2B0894-DE9E-4149-AC6A-4BB8E049993C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
-		{AE2B0894-DE9E-4149-AC6A-4BB8E049993C}.Debug|Any CPU.Build.0 = Release|Any CPU
 		{AE2B0894-DE9E-4149-AC6A-4BB8E049993C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE2B0894-DE9E-4149-AC6A-4BB8E049993C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
